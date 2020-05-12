@@ -3,6 +3,7 @@ Projekt na Pracowanię programowania, który pokazuje pogodę dla wpisanej miejs
 
 # Jak używać?
 Uruchom plik projektPython.py a następnie postępuj zgodnie z instrukcją na ekranie.
+(jedyne co musisz zrobić to wpisać miejscowość i poczekać na odpowiedź)
 
 # Czego użyłem? 
 Biblioteki Request i urlopen - aby połączyć się z insternetem i pobrać zawartość strony z którą się łączę
